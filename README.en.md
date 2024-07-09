@@ -8,29 +8,15 @@ Software architecture description
 
 #### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  Linux环境
+2.  OMNET++配置环境的时候需要连接外网，编译会自动下载链接文件。
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  请参考Omnet++和nesting指导资料进行安装
 
 #### Contribution
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+1.  上传的环境中主要是我自己仿真TSN的测试用例，如果有其他配置，可自行更改
 
 
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
