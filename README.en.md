@@ -18,8 +18,12 @@ Software architecture description
 #### Contribution
 
 1.  上传的环境中主要是我自己仿真TSN的测试用例，如果有其他配置，可自行更改
+<<<<<<< HEAD
 #### 获取仿真软件及配置方式
 由于仓库容量限制，通过百度网盘传递文件。如文件失效，请留言更新链接
 链接：https://pan.baidu.com/s/1T2icrg6MSWexN6_A2aZJAQ 
 提取码：e1k4
+=======
+
+>>>>>>> efaf17a640dba76321d769d8278f7b2564adecc9
 
